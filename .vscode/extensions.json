@@ -1,0 +1,24 @@
+{
+    "recommendations": [
+        "christian-kohler.path-intellisense",
+        "clarkyu.vscode-sql-beautify",
+        "eamodio.gitlens",
+        "formulahendry.code-runner",
+        "HookyQR.beautify",
+        "jithurjacob.nbpreviewer",
+        "mechatroner.rainbow-csv",
+        "mhutchie.git-graph",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.jupyter",
+        "waderyan.gitblame",
+        "janisdd.vscode-edit-csv",
+        "wayou.vscode-todo-highlight",
+        "james-yu.latex-workshop",
+        "ms-vsliveshare.vsliveshare",
+        "eighthundreds.vscode-drawio",
+        "visualstudioexptteam.vscodeintellicode",
+        "zh9528.file-size"
+    ]
+}
